@@ -32,6 +32,16 @@ la classe avra' i seguenti moduli:
 	modifica
 	cancellazione
 	stampa_catalogo
+	ricerca
+
+----------
+per il secondo punto della prova ho deciso di utilizzare l' ORM peewee 
+
+In questo caso utilizzero' solamente una classe la classe Catalogo3d che conterra' tutte le informazioni del modello3d e, essendo basata su database sqlite, avro' tutte le "comodita'" di accesso ai dati in un DB, utilizzando le varie query necessarie per i requisiti della prova.
+
+
+
+
 
 
 	
