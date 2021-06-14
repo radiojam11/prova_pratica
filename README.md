@@ -22,7 +22,6 @@ Creero' una classe Modello3d che avra' le caratteristiche :
 	dipart_az
 la classe avra' i seguenti modulii
 	modifica
-	cancellazione
 	info_mod
 
 Ceero' un classe Catalogo3d che avra' le seguenti caratteristiche:
